@@ -1,2 +1,2 @@
-# fourier-notes-fourier-analysis-study-math-history-project
+# technical-notes-stein-fourier
 Technical notes on Fourier Analysis
