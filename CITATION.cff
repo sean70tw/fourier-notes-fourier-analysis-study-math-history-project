@@ -12,6 +12,15 @@ repository-code: "https://github.com/sean70tw/fourier-notes-fourier-analysis-stu
 license: MIT
 date-released: 2026-02-21
 
+preferred-citation:
+  type: article
+  title: "Technical Notes on Stein and Shakarchi's Fourier Analysis: An Introduction"
+  authors:
+    - family-names: "Lynn"
+      given-names: "Sean"
+  year: 2026
+  doi: 10.5281/zenodo.18724766
+
 abstract: >
   A continuously updated technical notebook providing rigorous
   derivations and clarifications supplementing Stein and
