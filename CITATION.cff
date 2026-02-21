@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Technical Notes on Fourier Analysis"
+message: "If you use this work, please cite it using the metadata below."
+type: software
+
+authors:
+  - family-names: "Lynn"
+    given-names: "Sean"
+
+doi: 10.5281/zenodo.18724766
+repository-code: "https://github.com/sean70tw/fourier-notes-fourier-analysis-study-math-history-project"
+license: MIT
+date-released: 2026-02-21
+
+abstract: >
+  A continuously updated technical notebook providing rigorous
+  derivations and clarifications supplementing Stein and
+  Shakarchi's Fourier Analysis: An Introduction.
