@@ -6,7 +6,7 @@ This is a continuously updated technical notebook providing rigorous derivations
 
 ## Citation
 
-If you use this work, please cite the latest archived version via:
+If you use this work, please cite the Zenodo archived record:
 
 Lynn, Sean. (2026).
 Technical Notes on Stein and Shakarchi’s Fourier Analysis: An Introduction.
